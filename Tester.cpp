@@ -2,7 +2,7 @@
    This program is for testing the class DCLIST. It implements a
    well-designed CLI menu which allows the user to manipulate the DCLIST.
 -------------------------------------------------------------------------*/
-#include "DCLIST.cpp"
+#include "DCLIST.h"
 
 void menu(); // prototype of the function menu()
 
